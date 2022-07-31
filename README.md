@@ -1,2 +1,2 @@
-# criminal-detection
-Criminal detection system using Open-CV and Haar-Cascade
+# facial recognition
+Here the system is implemented using open-cv and Local Binary Pattern Histogram(LBPH) algorithm
